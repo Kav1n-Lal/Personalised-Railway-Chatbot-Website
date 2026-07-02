@@ -4,6 +4,10 @@ An AI-powered railway assistant that provides intelligent, personalized response
 
 ---
 
+##  Project Video Link
+- Entire Project Explanation-[https://drive.google.com/file/d/18uJU8hoFmvfJdgrxd8JkLrfdPT6yLueX/view?usp=sharing]
+- Chatbot Website Demo-[https://drive.google.com/file/d/11ofB4xVF26MwI-I1A7mkj1zi4ikXG--f/view?usp=sharing]
+
 ## 📌 Features
 
 - 🔐 User Registration & Login system
