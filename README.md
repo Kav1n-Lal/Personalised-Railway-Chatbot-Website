@@ -4,9 +4,40 @@ An AI-powered railway assistant that provides intelligent, personalized response
 
 ---
 
-##  Project Video Link
+##  Project Video Links
 - Entire Project Explanation-[https://drive.google.com/file/d/18uJU8hoFmvfJdgrxd8JkLrfdPT6yLueX/view?usp=sharing]
 - Chatbot Website Demo-[https://drive.google.com/file/d/11ofB4xVF26MwI-I1A7mkj1zi4ikXG--f/view?usp=sharing]
+
+##  Screenshots
+<table>
+<tr>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/8aed0b26-2298-4900-a50f-dc428f73d015" /> <br>
+<b>Register Page</b>
+</td>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/a9a8d047-0b3d-40e7-bc8b-61b9e4d8aaec" /> <br>
+<b>Login Page</b>
+</td>
+</tr>
+</table>
+<img width="1920" height="1080" alt="Screenshot (96)" src="https://github.com/user-attachments/assets/2d7e4987-8e15-45de-84cb-e5def052c1e8" />
+<img width="1920" height="1080" alt="Screenshot (97)" src="https://github.com/user-attachments/assets/188de6ec-f6f6-407b-9eff-5c7bddd83a73" />
+
+##  Chat UI Screenshots
+<img width="1920" height="1080" alt="Screenshot (98)" src="https://github.com/user-attachments/assets/d483bdc0-d61a-4d9a-be79-6294c3ed6243" />
+<table>
+<tr>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/8e26c7f0-ee8e-40a6-a7ef-b75a702ac9ed" /> <br>
+<b>Chat Interactions 1</b>
+</td>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/25cb9432-e262-4151-9d80-80bfe42e2b71" /> <br>
+<b>Chat Interactions 2</b>
+</td>
+</tr>
+</table>
 
 ## 📌 Features
 
