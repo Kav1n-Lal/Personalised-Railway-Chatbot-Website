@@ -3,6 +3,7 @@
 An AI-powered railway assistant that provides intelligent, personalized responses to user queries using **Gemma (via Ollama)**, **LangGraph**, and **FastAPI**. The system leverages a public railway dataset and tool-calling capabilities to deliver accurate, real-time information in a conversational format.
 
 ---
+## For queries and project files mail to - kavingilbert@gmail.com
 
 ##  Project Video Links
 - Entire Project Explanation-[https://drive.google.com/file/d/18uJU8hoFmvfJdgrxd8JkLrfdPT6yLueX/view?usp=sharing]
